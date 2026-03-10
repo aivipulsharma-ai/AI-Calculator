@@ -1,2 +1,9 @@
 # AI-Calculator
-This will be a project for creating a simple calculator, but here we will cover all the steps using AI starting from Requirement Gathering till making the testing plans.
+AI driven SDLC Calculator Project
+
+Phases Implemented:
+1) Requirement Gathering
+2) Architecture Design
+3) Low Level Design
+4) Development
+5) Deployment Ready
